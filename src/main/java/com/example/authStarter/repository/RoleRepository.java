@@ -1,5 +1,6 @@
 package com.example.authStarter.repository;
 
+import com.example.authStarter.models.ERole;
 import com.example.authStarter.models.Role;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
